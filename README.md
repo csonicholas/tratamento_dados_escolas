@@ -1,5 +1,5 @@
 # tratamento_dados_escolas
-##Projeto Final do módulo de Técnicas de Programação I do Santander Coders 2023
+## Projeto Final do módulo de Técnicas de Programação I do Santander Coders 2023
 
 O objetivo era realizar tratamentos nos dados de acordo com as normas de padrão definidas pelo cliente.
 
